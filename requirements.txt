@@ -166,7 +166,7 @@ python-dotenv==1.0.0
 python-pptx==0.6.23
 pytweening==1.0.7
 pytz==2024.1
-pywin32==305
+pywin32
 pywin32-ctypes==0.2.2
 PyYAML==6.0.1
 pyzmq==25.1.2
