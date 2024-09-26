@@ -1,18 +1,20 @@
+# gunicorn==23.0.0
+# packaging==24.1
 # absl-py==2.1.0
-# aiohttp==3.9.1
+aiohttp==3.9.1
 # aiosignal==1.3.1
 # altgraph==0.17.4
 # annotated-types==0.6.0
 # anyio==4.2.0
-# asttokens==2.4.1
+asttokens==2.4.1
 # astunparse==1.6.3
 # async-property==0.2.2
 # async-timeout==4.0.3
 # asyncstdlib==3.12.0
 # attrs==23.2.0
 # auto-py-to-exe==2.42.0
-# bcrypt==4.1.2
-# beautifulsoup4==4.12.2
+bcrypt==4.1.2
+beautifulsoup4==4.12.2
 # BingImageCreator==0.5.0
 # blinker==1.7.0
 # bottle==0.12.25
@@ -28,7 +30,7 @@ click==8.1.3
 # comm==0.2.1
 # comtypes==1.2.1
 # contourpy==1.2.0
-# cryptography==42.0.5
+cryptography==42.0.5
 # curl-cffi==0.5.10
 # cycler==0.12.1
 # debugpy==1.8.0
@@ -57,18 +59,18 @@ Flask-SQLAlchemy==3.0.2
 # gensim==4.3.3
 # gevent==23.9.1
 # gevent-websocket==0.10.1
-# google==3.0.0
-# google-ai-generativelanguage==0.4.0
-# google-api-core==2.17.1
-# google-auth==2.28.1
-# google-generativeai==0.4.0
-# google-pasta==0.2.0
-# googleapis-common-protos==1.62.0
-# gradio_client==0.10.1
+google==3.0.0
+google-ai-generativelanguage==0.4.0
+google-api-core==2.17.1
+google-auth==2.28.1
+google-generativeai==0.4.0
+google-pasta==0.2.0
+googleapis-common-protos==1.62.0
+gradio_client==0.10.1
 greenlet==2.0.1
 # groq==0.4.2
-# grpcio==1.62.0
-# grpcio-status==1.62.0
+grpcio==1.62.0
+grpcio-status==1.62.0
 gunicorn==20.1.0
 # h11==0.14.0
 # h5py==3.11.0
@@ -85,7 +87,7 @@ Jinja2==3.1.2
 # joblib==1.3.2
 # jupyter_client==8.6.0
 # jupyter_core==5.7.1
-# jwt==1.3.1
+jwt==1.3.1
 # # keras==3.4.1
 # # Keras-Preprocessing==1.1.2
 # keyboard==0.13.5
@@ -141,8 +143,8 @@ psycopg2-binary==2.9.5
 # PyAutoGUI==0.9.54
 # pyclipper==1.3.0.post5
 # pycparser==2.21
-# pycryptodome==3.20.0
-# pycryptodomex==3.20.0
+pycryptodome==3.20.0
+pycryptodomex==3.20.0
 # pydantic==2.5.3
 # pydantic_core==2.14.6
 # PyExecJS==1.5.1
@@ -162,7 +164,7 @@ psycopg2-binary==2.9.5
 # PySocks==1.7.1
 # python-bidi==0.4.2
 # python-dateutil==2.8.2
-# python-dotenv==1.0.0
+python-dotenv==1.0.0
 # python-pptx==0.6.23
 # pytweening==1.0.7
 # pytz==2024.1
